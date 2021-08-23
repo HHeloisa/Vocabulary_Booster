@@ -35,7 +35,7 @@ Neste projeto, verificamos se voce é capaz de:
 ```bash 
   npm install
 ```
-
+---
 
 # Requisitos do projeto
 
